@@ -1,16 +1,38 @@
-# React + Vite
+# ScholarSync
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+ScholarSync is a scholarship platform designed to help students discover relevant scholarship opportunities, understand eligibility requirements, and simplify the application process.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Discover scholarship opportunities in one place.
+- Filter scholarships based on student profiles and eligibility.
+- Understand scholarship requirements and rejection reasons.
+- Get guidance on application steps and required documents.
+- Reduce repetitive application work with a reusable student profile.
 
-## React Compiler
+## Built With
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- Vite
+- JavaScript
+- CSS
 
-## Expanding the Oxlint configuration
+## Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+Install the project dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+Open the local URL displayed in your terminal to view the website.
+
+## Project
+
+ScholarSync — making scholarship discovery simpler for students.
